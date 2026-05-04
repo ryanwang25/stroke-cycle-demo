@@ -221,5 +221,5 @@ __marimo__/
 /data/freestyle-video.mp4
 pose_landmarker.task
 /output
-/models
 /models/yolov8n.pt
+/models/pose_landmarker.task
