@@ -1,4 +1,4 @@
-# mpcp-onboarding-final-delib
+# stroke-cycle-demo
 
 A proof-of-concept demo showing biomechanical stroke-cycle-aware windowing for freestyle swimming analysis.
 
