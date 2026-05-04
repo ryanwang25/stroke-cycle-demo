@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom
+/data/freestyle-video.mp4
+pose_landmarker.task
+/output

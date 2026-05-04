@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+matplotlib
+numpy
+yt-dlp
+ultralytics
+filterpy
+scikit-image
